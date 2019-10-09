@@ -13,3 +13,5 @@ An app having security level greater than that of even banks.
 <B>Usage Instructions:-</B>
 1. Fork the complete repository and extract to a single folder.
 2. Run the .py file.
+
+Enjoy secured communication!
