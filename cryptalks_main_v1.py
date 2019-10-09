@@ -79,7 +79,7 @@ lblkey.grid(row=2, column=0)
 
 txtkey = Entry(basicframe, font=('arial', 16, 'bold'),
                textvariable=key, bd=1, insertwidth=4,
-               bg="#D2B4DE", justify='right')
+               bg="#D3B4DE", justify='right')
 
 txtkey.grid(row=2, column=1)
 
