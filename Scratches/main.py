@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-topdecor = Label(root, bg="#900C3F")
+topdecor = Label(root, bg="#901C3F")
 topdecor.pack(fill=X)
 
 bottomdecor = Label(root, bg="#900C3F")
